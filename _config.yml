@@ -2,6 +2,7 @@ name: smathy
 favicon: null
 layout_spectrum: 0.40094323246739805
 typography_spectrum: 0.2947738249786198
+title: smathy
 cta:
   domain: null
   bucket: null
